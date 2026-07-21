@@ -8,17 +8,6 @@ The project covers database design, SQL development, data transformation, and in
 
 The solution enables business users to monitor key performance indicators (KPIs), identify top customers and products, analyze monthly sales trends, and explore customer and shipment insights through dynamic visualizations.
 
-## Dashboard Preview
-
-### Report 1 – Sales Performance Overview
-
-![Sales Performance Overview](images/Sales_Performance_Overview.png)
-
-### Report 2 – Sales & Customer Insights
-
-![Sales & Customer Insights](images/Sales_Customer_Insights.png)
-
----
 
 ## Tools & Technologies
 

@@ -18,7 +18,6 @@ The solution enables business users to monitor key performance indicators (KPIs)
 - Power Query
 - DAX
 
----
 
 ## Project Workflow
 
@@ -51,7 +50,6 @@ The solution enables business users to monitor key performance indicators (KPIs)
 - Built relationships between all tables
 - Created DAX measures for business KPIs
 
----
 
 ## Report 1 – Sales Performance Overview
 
@@ -66,7 +64,6 @@ The first report focuses on overall sales performance.
 - Revenue by Month
 - Year Slicer
 
----
 
 ## Report 2 – Sales & Customer Insights
 
@@ -83,7 +80,6 @@ The second report focuses on customer behavior and product performance.
 - Overall Shipment Status
 - Year Slicer
 
----
 
 ## Key Features
 
